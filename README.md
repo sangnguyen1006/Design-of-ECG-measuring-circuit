@@ -14,7 +14,7 @@
     low pass, band pass, notch pass).
     • Máy Oscilloscope: Sử dụng 2 kênh đo tín hiệu tương tự để so sánh/đối chiếu 
     tín hiệu vào và ra.
-    • Phần mềm proteus: thiết kế PCB.
+    • Phần mềm Proteus: thiết kế PCB.
     
 ## Thực hiện:
     • Sử dụng IC khuếch đại thuật toán LM324N, biến trở ở nhiều giá trị khác nhau 
